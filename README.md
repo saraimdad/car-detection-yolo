@@ -1,5 +1,7 @@
 # car-detection-yolo
 
+![Untitled](https://github.com/saraimdad/car-detection-yolo/assets/157117492/274c20d8-5626-44fe-b2be-2e1524ba986e)
+
 ## Introduction:
 The aim of this project was to develop a car detection system using the YOLO (You Only Look Once) object detection algorithm. The project utilized a dataset obtained from Coursera, containing labeled images of cars for training the model. YOLO is a state-of-the-art real-time object detection system that is efficient and accurate.
 
